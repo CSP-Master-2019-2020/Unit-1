@@ -3,7 +3,7 @@
 By the end of this chapter you should be able to:
 
 * Connect a personal experience to one challenge related to the idea that "The Internet is for Everyone".
-* Cite one example of how computing has a global affect -- both beneficial and harmful -- on people and society.
+* Cite examples of how computing has a global affect -- both beneficial and harmful -- on people and society.
 * Explain that the Internet is a distributed global system that works on shared and open protocols.
 * Explain why messages need to contain addressing information (sender/recipient identification).
 * Invent an informal addressing protocol for use in the Battleship game.
