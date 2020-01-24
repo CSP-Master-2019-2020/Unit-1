@@ -13,7 +13,7 @@ By the end of this chapter you should be able to:
 * Explain why protocols are necessary to overcome the underlying unreliability of the Internet. (M, E)
 * Justify the need for acknowledgements and packet numbering in TCP. (M)
 * Develop a protocol for reliable communication on the Internet. (N)
-* Give a high level description of DNS as a name-to-IP-address mapping system used on the Internet. (M)
+* Give a high level description of DNS as the name-to-IP-address mapping system used on the Internet. (M)
 * Give a few reasons why DNS is useful and necessary. (M)
 * Describe at least one vulnerability of DNS and how an attack on it works (M)
 * Explain how layers of protocols allow the Internet to function. (M, E)
